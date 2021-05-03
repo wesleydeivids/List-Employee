@@ -1,0 +1,16 @@
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.exe
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.deps.json
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.runtimeconfig.json
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.runtimeconfig.dev.json
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.dll
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\ref\list_employee.dll
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\bin\Debug\net5.0\list_employee.pdb
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.csprojAssemblyReference.cache
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.AssemblyInfoInputs.cache
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.AssemblyInfo.cs
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.dll
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\ref\list_employee.dll
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.pdb
+C:\Users\Wesley Deivid\source\repos\list_employee\list_employee\obj\Debug\net5.0\list_employee.genruntimeconfig.cache
